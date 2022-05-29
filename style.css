@@ -132,7 +132,7 @@
 
 /* Completed */
 .done__label {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #8888;
 }
 
